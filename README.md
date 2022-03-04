@@ -14,6 +14,4 @@ Refactoring details
 -added concise title 
 -when heading elements are viewed all are in sequential order
 
-[Site Link]
-
-![Horiseon Layout]
+[Site Link] https://mgyata.github.io/Horiseon/
