@@ -1,7 +1,10 @@
 # HTML CSS Git Challenge: Code Refactor
 
+# Descrpition
 Challenge 1 refactoring code to help develop working knowledge of HTML, CSS, and Github
 I was tasked with organizing symantic HTML and condesing CSS to make for a more concise coding experience for future teams working on the Horiseon website.
+
+![Horiseon Homepage](./assets/images/homepage.png)
 
 Accessibility attributes were added to enhance the SEA and ensure the accessibility standards are met.
 
